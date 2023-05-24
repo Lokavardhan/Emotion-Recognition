@@ -1,7 +1,6 @@
 # Emotion-Recognition
 Attention Detection uses Open CV that lets the user to check facial expressions of students in a classroom and obtain the output in excel sheet.
 Attention Detection using Face Emotion Recognition
-
 The Attention Detection using Face Emotion Recognition is a machine learning project that uses Python, OpenCV and a dataset of students to train a model that detects student attendance based on their emotions during a class. This project aims to provide an alternative solution to the traditional attendance-taking method that requires manual effort from the teacher.
 
 ## Requirements
